@@ -79,6 +79,7 @@ Comments in the examples are mostly in both english and chinese.
     - [Seminar für Ausbildung und Fortbildung der Lehrkräfte Freiburg (Berufliche Schulen)](https://bs-fr.seminare-bw.de/,Lde/Startseite)
     - [Sha Tin College, Hong Kong](https://shatincollege.edu.hk/)
     - [University of São Paulo](https://www5.usp.br/)
+    - [Berufsbildende Schule Betzdor-Kirchen](https://www.bbs-betzdorf-kirchen.de/)
     - [add yours...](https://github.com/damiafuentes/DJITelloPy/edit/master/README.md)
 
 ## Authors
